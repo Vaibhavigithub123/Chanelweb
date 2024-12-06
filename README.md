@@ -12,8 +12,8 @@ An interactive, visually stunning website that showcases a blend of dynamic anim
 
 
 ## Installation
-1. Clone the repository
-   git clone https://github.com/yourusername/Chanelweb.git
+1. Clone the repository:
+   - git clone https://github.com/yourusername/Chanelweb.git
 2. Navigate to the project directory:
     cd Chanelweb
 3. Open the index.html file in a web browser to view the project.
